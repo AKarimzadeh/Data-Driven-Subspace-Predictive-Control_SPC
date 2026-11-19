@@ -1,6 +1,8 @@
 # Subspace Predictive Control (SPC) for Automatic Voltage Regulator
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
-This repository provides a clean and modular implementation of **Subspace Predictive Control (SPC)** applied to a classical Automatic Voltage Regulator (AVR) system.  
+This repository provides a implementation of **Subspace Predictive Control (SPC)** applied to a classical Automatic Voltage Regulator (AVR) system.  
 
 The code is released as a **comparative baseline** for the data-driven control methods developed in the following paper:
 
